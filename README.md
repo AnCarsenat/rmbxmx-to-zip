@@ -1,4 +1,6 @@
 # rmbxmx-to-zip
+![Logo](https://github.com/AnCarsenat/rmbxmx-to-zip/assets/87574028/0c09f50f-d8c1-4944-ad18-fc024af09702)
+
 
 <h3>Why ?</h3>
 Hi there,
